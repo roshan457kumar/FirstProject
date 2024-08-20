@@ -5,4 +5,3 @@ d=30
 e=10
 print(c+d)
 print(a*b)
-print(e)
